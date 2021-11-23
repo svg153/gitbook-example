@@ -1,0 +1,11 @@
+{
+    "links": {
+        "sidebar": {
+            "repo": "https://github.com/svg153/gitbook-example"
+        }
+    },
+    "plugins": [
+        "search",
+        "highlight"
+    ]
+}
